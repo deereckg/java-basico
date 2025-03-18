@@ -7,3 +7,4 @@ Esse é um exemplo de repositório para armazenamento de certificasdos e demais 
 - [Introdução ao Java Cloud Native](https://www.dio.me/certificate/G6DTVPHS/share)
 - [Introdução à Plataforma Java](https://www.dio.me/certificate/T1TOAQEB/share)
 - [Ambiente de Desenvolvimento Java](https://www.dio.me/certificate/PTXA1EEF/share)
+- [Versionamento de Código com Git e GitHub](https://www.dio.me/certificate/8J5OSQL0/share)
